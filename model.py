@@ -6,4 +6,4 @@ def model1():
 def model2():
     print('adding code for ml model2')
 
-print('model2 is performing best')
+print('model2 is performing best and should be used')
